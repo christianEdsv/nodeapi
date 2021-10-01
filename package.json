@@ -1,0 +1,16 @@
+{
+  "name": "api_productos",
+  "version": "1.0.0",
+  "description": "API Rest de productos, tarea de modulo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  }
+}
